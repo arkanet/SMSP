@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<visibility>1</visibility>
+<NetworkLink>
+<name>Sonde Name</name>
+<flyToView>0</flyToView>
+<!--
+<Url><href>http://127.0.0.1:4190/sm_google.kml</href>
+-->
+<Url><href>https://www.dropbox.com/s/SharingCode/SondeNameTMP.kml?dl=1</href>
+<refreshMode>onInterval</refreshMode>
+<refreshInterval>4</refreshInterval>
+<viewRefreshMode>never</viewRefreshMode>
+</Url>
+<refreshVisibility>1</refreshVisibility>
+</NetworkLink>
+</Document>
+</kml>
